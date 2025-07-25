@@ -1,4 +1,4 @@
-# Horror Game – Unreal Engine
+# HallowGate Mall – Unreal Engine
 
 This is a first-person co-op horror game currently in development using Unreal Engine 5. The game features a terrifying AI creature that roams a dark ruins environment, built using the **Dark Ruins Megascans Sample** map.
 
